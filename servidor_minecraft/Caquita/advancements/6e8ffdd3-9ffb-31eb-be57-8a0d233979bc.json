@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "flower": "2025-07-24 19:28:58 +0000"
+    },
+    "done": true
+  },
   "totemic:recipes/wind_chime": {
     "criteria": {
       "has_the_recipe": "2025-07-15 16:48:53 +0000"
@@ -1163,6 +1169,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-07-15 16:48:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "flower": "2025-07-24 19:23:44 +0000"
     },
     "done": true
   },
@@ -2804,6 +2816,12 @@
   "ebwizardry:discover_spell": {
     "criteria": {
       "criteria_0": "2025-07-16 21:55:03 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:special_upgrade": {
+    "criteria": {
+      "criteria_0": "2025-07-24 19:43:00 +0000"
     },
     "done": true
   },
