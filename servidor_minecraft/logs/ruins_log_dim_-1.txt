@@ -1,0 +1,35 @@
+Did not find any Building data for ./config/ruins_config/mutated_ice_flats, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/frozen_ocean, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/enchanted_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_mesa, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/redwood_taiga_hills, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/redwood_taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mushroom_forest, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mutated_extreme_hills_with_trees, creating empty folder for it: failed
+Did not find any Building data for ./config/ruins_config/mutated_jungle_edge, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/dark_forest_center, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/birch_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/swampland, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_plains, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/snowy_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/taiga_cold, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/vampireforest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/dark_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/oak_savannah, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/twilight_glacier, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_taiga, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mutated_birch_forest, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/orangebiome, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/palmsbiome, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/mossmesa, creating empty folder for it: success
+Did not find any Building data for ./config/ruins_config/spidersforest, creating empty folder for it: success
+
+Loading options from: /workspaces/Caquita/servidor_minecraft/Caquita/DIM-1
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+anySpawnMinDistance = 32
+anySpawnMaxDistance = 2147483647
+Ruins mod loaded successfully for world ./Caquita/DIM-1, template files: 31
